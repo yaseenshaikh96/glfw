@@ -1,3 +1,7 @@
+**.sln
+**.vcxproj
+**.vcxproj.filters
+
 # The canonical out-of-tree build subdirectory
 build
 
